@@ -1,0 +1,90 @@
+		EXERCICIO DE HERANÇA, POLIMORFISMO E INTERFACES
+		
+	Autor: Lucas Gomes Silva
+  
+1- Crie um projeto com class pai e class filho
+
+2- criei os atributos
+
+3- extends todos os atributos da class pai para a class filho
+
+4- a class pai tem que esta com protected nos atributos
+
+5- criei o metodo toString
+
+4- criei o metodo main fiz os teste dos atributos na class TestandoClassFilha
+
+5- passei os valores para os ojetos instanciado/criado
+
+7- sobreescrevi o metodo maiorIdade ja criado na classs pai para a class filho e fiz uma modificaçao e chamei na class TestandoClassFilho 
+
+8- coloquei a palavra resevada abstract na class pai Pessoa para não ser instanciadada 
+
+9- criando um metodo abstract na class pai Pessoa e reescrevi ele nas class filho por que é obrigatorio isso se chama abstracao 
+
+10- E chamei o metodo Salario abstract na class TestandoClassFilha 
+
+11- criei um metodo na class TestandoClassFilho imprimir o nome e o salario e chamei o metodo na mesma class 
+
+12- começando com interface Cria um pacote da interface e uma class interface
+
+13- criei um metodo autenticar na class de interface 
+
+14- Implementei na class Secretario a class PermitirAcesso e é obrigado sobreecrever o metodo 
+
+15- Criei os atributos na class Secretario 
+
+16- No metodo autenticar da class Secretario modifiquei o retorno para fazer uma validaçao de login e senha TRUE / FALSE
+
+17- Na class PrimeiraClass chamei o atributo login e senha para fazer uma pergunta ao usurio 
+
+18- Instanciei/criei o objeto  o Secretario na class PrimeiraClass e setei o login e senha e criei uma condição if else
+
+
+
+19- para Segundo meio de contrato interface tem que ciar outro metodo autenticar e passa os atributos como parametros na class PermitirAcesso
+
+20- Tirei os atributos da class Secretario e sobreescrevi o metodo autenticar com parametro login e senha PermitirAcesso
+
+21- Na class PrimeiraClass criei o Segundo meio de contrato interface
+
+
+
+
+22- interface com construtores 
+
+23- criando o Terceiro meio de contrato interface
+
+24- recriei o metodo autenticar sem parametro na class PermitirAcesso
+
+25- dentro do secretario reescrevi o metodo autenticar
+
+26- na class secretario modei o metodo que tem o retorn autenticar()
+
+27- criei o construtor com parametro e o construtor sem parametro 
+
+27- em diante fia as mesma coisa 
+
+     FIM
+
+  Interfaces e o polimorfismo extremo CONTINUIDADE 
+28- criando primeiro um pacote auxiliares e class FuncaoAutenticacao
+
+29- criando o metodo autenticarjava na class FuncaoAutenticacao
+
+30- Terceiro meio de contrato interface 
+
+31- criando o metodo FucaoAutenticacao e chamando a interface PermitirAcesso
+
+32- validadndo o diretor criando os atributos reescrevendo e criando os construtores na class Diretor para da acesso a ele 
+
+33- e na class permitindoAcesso pasando como parametro o doretor 
+
+			
+			PROJETO CONCLUIDO COM SUCESSO!!!!
+
+
+
+
+
+
